@@ -1,0 +1,12 @@
+C:\Users\Hilda Afifah\source\repos\kalusia\obj\Debug\kalusia.vbproj.AssemblyReference.cache
+C:\Users\Hilda Afifah\source\repos\kalusia\obj\Debug\kalusia.Form1.resources
+C:\Users\Hilda Afifah\source\repos\kalusia\obj\Debug\kalusia.Resources.resources
+C:\Users\Hilda Afifah\source\repos\kalusia\obj\Debug\kalusia.vbproj.GenerateResource.cache
+C:\Users\Hilda Afifah\source\repos\kalusia\obj\Debug\kalusia.vbproj.CoreCompileInputs.cache
+C:\Users\Hilda Afifah\source\repos\kalusia\bin\Debug\kalusia.exe.config
+C:\Users\Hilda Afifah\source\repos\kalusia\bin\Debug\kalusia.exe
+C:\Users\Hilda Afifah\source\repos\kalusia\bin\Debug\kalusia.pdb
+C:\Users\Hilda Afifah\source\repos\kalusia\bin\Debug\kalusia.xml
+C:\Users\Hilda Afifah\source\repos\kalusia\obj\Debug\kalusia.exe
+C:\Users\Hilda Afifah\source\repos\kalusia\obj\Debug\kalusia.xml
+C:\Users\Hilda Afifah\source\repos\kalusia\obj\Debug\kalusia.pdb
